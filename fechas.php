@@ -9,7 +9,7 @@
 <body>
     <h2>Ejercicios de tratamiento de fechas</h2>
 
-    <p>Vamos a aprwnswe a tratar fechas en php y funcionalidades</p>
+    <p>Vamos a aprwnswe a tratar fechas en php y funcionalidades.</p>
     <br>
     <?php
 
